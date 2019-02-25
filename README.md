@@ -26,7 +26,7 @@ For an optimal student experience, we recommend the following hardware configura
 * An Internet connection
 * macOSX machine (for example, MacBook, iMac) running macOS High Sierra
   v10.13+
-
+* Nvidia GPU
 
 
 ### Software requirements

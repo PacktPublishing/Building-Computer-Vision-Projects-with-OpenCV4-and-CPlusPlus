@@ -8,3 +8,13 @@ Steps to build
 Executables
 ===========
 ./Chapter5 imageToSegment
+
+For example
+
+```
+./Chapter5 ../data/test.pgm
+```
+
+```
+./Chapter5 ../data/test_noise.pgm
+```
